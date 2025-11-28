@@ -1,0 +1,9 @@
+location,time,device,speed
+Nest,Morning,Laptop,75.1
+Nest,Morning,Phone,86.2
+AERL,Morning,Laptop,295
+AERL,Morning,Phone,129
+Nest,Afternoon,Laptop,238
+Nest,Afternoon,Phone,147
+AERL,Afternoon,Laptop,237
+AERL,Afternoon,Phone,217
